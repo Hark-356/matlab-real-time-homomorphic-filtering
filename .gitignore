@@ -1,0 +1,34 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+*.mexa64
+*.mexw64
+*.mexmaci64
+slprj/
+sccprj/
+codegen/
+*.slxc
+
+# Simulink autosave
+*.slx.autosave
+
+# MATLAB App Designer
+*.mlapp.autosave
+
+# MATLAB generated figures (keep sample PNGs in the repo)
+# Uncomment the lines below if you don't want generated PNGs tracked:
+# homomorphic_comparison.png
+# parameter_sweep.png
+# filter_3d_surface.png
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor backup files
+*~
+*.swp
+*.swo
+
